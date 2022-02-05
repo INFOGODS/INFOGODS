@@ -1,0 +1,25 @@
+SL,CLUBS,GOALS_SAVED,PLAYERS,GOALS_SCORED,POSTION,NATIONALITY,SALARY,PLAYERS
+25,MANCHESTER UNITED,0,Cristiano Ronaldo,8,Forward,Portugal,26500000.00,Cristiano Ronaldo
+26,MANCHESTER UNITED,0,Jadon Sancho,1,Forward,England,18200000.00,Jadon Sancho
+27,MANCHESTER UNITED,0,Mason Greenwood,4,Forward,England,3900000.00,Mason Greenwood
+28,MANCHESTER UNITED,0,Bruno Fernandes,5,Midfielder,Portugal,10200000.00,Bruno Fernandes
+29,MANCHESTER UNITED,0,Fred,2,Midfielder,Brazil,920000.00,Fred
+30,MANCHESTER UNITED,0,Scott McTominay,1,Midfielder,Scotland,1040000.00,Scott McTominay
+31,MANCHESTER UNITED,0,Raphaël Varane,0,Defender,France,17800000.00,Raphaël Varane
+32,MANCHESTER UNITED,0,Harry Maguire,0,Defender,England,9800000.00,Harry Maguire
+33,MANCHESTER UNITED,0,Luke Shaw,0,Defender,England,7800000.00,Luke Shaw
+34,MANCHESTER UNITED,67,David De Gea,0,Goalkeeper,Spain,19500000.00,David De Gea
+35,MANCHESTER UNITED,0,Tom Heaton,0,Goalkeeper,England,21000.00,Tom Heaton
+36,MANCHESTER UNITED,0,Lee Grant,0,Goalkeeper,England,16000.00,Lee Grant
+37,MANCHESTER CITY,0,Raheem Sterling,7,Forward,England,18700000.00,Raheem Sterling
+38,MANCHESTER CITY,0,Gabriel Jesus,2,Forward,Brazil,5600000.00,Gabriel Jesus
+39,MANCHESTER CITY,0,Riyadh Mahrez,6,Forward,Algeria,7400000.00,Riyadh Mahrez
+40,MANCHESTER CITY,0,Bernado Silva,7,MidFielder,Portugal,9300000.00,Bernado Silva
+41,MANCHESTER CITY,0,Rodrigo Hernandez,3,MidFielder,Spain,7500000.00,Rodrigo Hernandez
+42,MANCHESTER CITY,0,Kevin De Bruyne,5,MidFielder,Belgium,24900000.00,Kevin De Bruyne
+43,MANCHESTER CITY,0,Ruben Dias,2,Defender,Portugal,7100000.00,Ruben Dias
+44,MANCHESTER CITY,0,Joao Cancelo,1,Defender,Portugal,4900000.00,Joao Cancelo
+45,MANCHESTER CITY,0,Ayomeric Laporte,2,Defender,Spain,7400000.00,Ayomeric Laporte
+46,MANCHESTER CITY,34,Ederson Moraes,0,GoalKeeper,Brazil,3700000.00,Ederson Moraes
+47,MANCHESTER CITY,0,Scott Carson,0,GoalKeeper,England,250000.00,Scott Carson
+48,MANCHESTER CITY,0,Zack Steffen,0,GoalKeeper,United States,200000.00,Zack Steffen

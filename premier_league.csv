@@ -1,0 +1,121 @@
+SL,CLUBS,GOALS_SAVED,PLAYERS,GOALS_SCORED,POSTION,NATIONALITY,SALARY,PLAYERS
+1,ARSENAL,0,Gabriel Martinelli,4,Forward,Brazil,560000.00,Gabriel Martinelli
+2,ARSENAL,0,Pierre-Emerick Aubameyang,4,Forward,Gabon,1550000.00,Pierre-Emerick Aubameyang
+3,ARSENAL,0,Alexandre Lacazette,3,Forward,France,1130000.00,Alexandre Lacazette
+4,ARSENAL,0,Martin Odegaard,4,Midfielder,Norway,500000.00,Martin Odegaard
+5,ARSENAL,0,Albert Sambi Lokonga,0,Midfielder,Belgium,1200000.00,Albert Sambi Lokonga
+6,ARSENAL,0,Bukayo Saka,6,Midfielder,England,1800000.00,Bukayo Saka
+7,ARSENAL,0,Benjamin White,0,Defender,England,7400000.00,Benjamin White
+8,ARSENAL,0,Takehiro Tomiyasu,0,Defender,Japan,1500000.00,Takehiro Tomiyasu
+9,ARSENAL,0,Nuno Tavares,0,Defender,Portugal,1600000.00,Nuno Tavares
+10,ARSENAL,55,Aaron Ramsdale,0,GoalKeeper,England,2400000.00,Aaron Ramsdale
+11,ARSENAL,9,Bernd Leno,0,GoalKeeper,Germany,6200000.00,Bernd Leno
+12,ARSENAL,0,Arthur Okonkwo,0,Goalkeeper,England,155800.00,Arthur Okonkwo
+13,CHELSEA,0,Romelu Lukaku,5,Forward,Belgium,12000000.00,Romelu Lukaku
+14,CHELSEA,0,Callum Hudson-Odoi,1,Forward,England,6200000.00,Callum Hudson-Odoi
+15,CHELSEA,0,Timo Werner,1,Forward,Germany,20000000.00,Timo Werner
+16,CHELSEA,0,Jorginho,6,Midfielder,Italy,7000000.00,Jorginho
+17,CHELSEA,0,N'Golo Kante,2,Midfielder,France,18000000.00,N'Golo Kante
+18,CHELSEA,0,Mateo Kovacic,2,Midfielder,Croatian,7000000.00,Mateo Kovacic
+19,CHELSEA,0,Antonio Rudiger,2,Defender,Germany,6200000.00,Antonio Rudiger
+20,CHELSEA,0,Thiago Silva,2,Defender,Brazil,12000000.00,Thiago Silva
+21,CHELSEA,0,Marcos Alonso,1,Defender,Spain,7000000.00,Marcos Alonso
+22,CHELSEA,55,Edouard Mendy,0,GoalKeeper,Senegal,3200000.00,Edouard Mendy
+23,CHELSEA,2,Kepa Arrizabalaga,0,GoalKeeper,Spain,9600000.00,Kepa Arrizabalaga
+24,CHELSEA,0,Marcus Bettinelli,0,GoalKeeper,England,2160000.00,Marcus Bettinelli
+25,MANCHESTER UNITED,0,Cristiano Ronaldo,8,Forward,Portugal,26500000.00,Cristiano Ronaldo
+26,MANCHESTER UNITED,0,Jadon Sancho,1,Forward,England,18200000.00,Jadon Sancho
+27,MANCHESTER UNITED,0,Mason Greenwood,4,Forward,England,3900000.00,Mason Greenwood
+28,MANCHESTER UNITED,0,Bruno Fernandes,5,Midfielder,Portugal,10200000.00,Bruno Fernandes
+29,MANCHESTER UNITED,0,Fred,2,Midfielder,Brazil,920000.00,Fred
+30,MANCHESTER UNITED,0,Scott McTominay,1,Midfielder,Scotland,1040000.00,Scott McTominay
+31,MANCHESTER UNITED,0,Raphaël Varane,0,Defender,France,17800000.00,Raphaël Varane
+32,MANCHESTER UNITED,0,Harry Maguire,0,Defender,England,9800000.00,Harry Maguire
+33,MANCHESTER UNITED,0,Luke Shaw,0,Defender,England,7800000.00,Luke Shaw
+34,MANCHESTER UNITED,67,David De Gea,0,Goalkeeper,Spain,19500000.00,David De Gea
+35,MANCHESTER UNITED,0,Tom Heaton,0,Goalkeeper,England,21000.00,Tom Heaton
+36,MANCHESTER UNITED,0,Lee Grant,0,Goalkeeper,England,16000.00,Lee Grant
+37,MANCHESTER CITY,0,Raheem Sterling,7,Forward,England,18700000.00,Raheem Sterling
+38,MANCHESTER CITY,0,Gabriel Jesus,2,Forward,Brazil,5600000.00,Gabriel Jesus
+39,MANCHESTER CITY,0,Riyadh Mahrez,6,Forward,Algeria,7400000.00,Riyadh Mahrez
+40,MANCHESTER CITY,0,Bernado Silva,7,MidFielder,Portugal,9300000.00,Bernado Silva
+41,MANCHESTER CITY,0,Rodrigo Hernandez,3,MidFielder,Spain,7500000.00,Rodrigo Hernandez
+42,MANCHESTER CITY,0,Kevin De Bruyne,5,MidFielder,Belgium,24900000.00,Kevin De Bruyne
+43,MANCHESTER CITY,0,Ruben Dias,2,Defender,Portugal,7100000.00,Ruben Dias
+44,MANCHESTER CITY,0,Joao Cancelo,1,Defender,Portugal,4900000.00,Joao Cancelo
+45,MANCHESTER CITY,0,Ayomeric Laporte,2,Defender,Spain,7400000.00,Ayomeric Laporte
+46,MANCHESTER CITY,34,Ederson Moraes,0,GoalKeeper,Brazil,3700000.00,Ederson Moraes
+47,MANCHESTER CITY,0,Scott Carson,0,GoalKeeper,England,250000.00,Scott Carson
+48,MANCHESTER CITY,0,Zack Steffen,0,GoalKeeper,United States,200000.00,Zack Steffen
+49,LIVERPOOL FC,0,Mohamed Salah,16,Forward,Egypt,12000000.00,Mohamed Salah
+50,LIVERPOOL FC,0,Roberto Firmino,4,Forward,Brazil,11000000.00,Roberto Firmino
+51,LIVERPOOL FC,0,Sadio Mane,8,Forward,Senegal,6200000.00,Sadio Mane
+52,LIVERPOOL FC,0,Fabinho,1,MidFielder,Brazil,11000000.00,Fabinho
+53,LIVERPOOL FC,0,Thiago,1,MidFielder,Spain,12000000.00,Thiago
+54,LIVERPOOL FC,0,Milner,0,MidFielder,England,7500000.00,Milner
+55,LIVERPOOL FC,0,Virgil Van Dijk,1,Defender,Netherlands,13700000.00,Virgil Van Dijk
+56,LIVERPOOL FC,0,Joseph Gomez,0,Defender,England,4680000.00,Joseph Gomez
+57,LIVERPOOL FC,0,Andrew Robertson,1,Defender,Scotland,6230000.00,Andrew Robertson
+58,LIVERPOOL FC,36,Alisson,0,GoalKeeper,Brazil,9350000.00,Alisson
+59,LIVERPOOL FC,0,Adrian,0,GoalKeeper,Spain,3610000.00,Adrian
+60,LIVERPOOL FC,6,Caoimhin Kelleher,0,GoalKeeper,Ireland,374000.00,Caoimhin Kelleher
+61,TOTTENHAM HOTSPUR,0,Harry Kane,4,Forward,England,7400000.00,Harry Kane
+62,TOTTENHAM HOTSPUR,0,Lucas Moura,2,Forward,Brazil,4900000.00,Lucas Moura
+63,TOTTENHAM HOTSPUR,0,Son Heung-Min,8,Forward,South Korea,8700000.00,Son Heung-Min
+64,TOTTENHAM HOTSPUR,0,Pierre Emile,2,MidFielder,Denmark,6300000.00,Pierre Emile
+65,TOTTENHAM HOTSPUR,0,Dele Ali,1,MidFielder,England,6100000.00,Dele Ali
+66,TOTTENHAM HOTSPUR,0,Tanguy Ndombele,1,MidFielder,France,4500000.00,Tanguy Ndombele
+67,TOTTENHAM HOTSPUR,0,Eric Dier,0,Defender,England,4300000.00,Eric Dier
+68,TOTTENHAM HOTSPUR,0,Sergio Reguilon,1,Defender,Spain,2900000.00,Sergio Reguilon
+69,TOTTENHAM HOTSPUR,0,Davinson Sanchez,2,Defender,Columbia,4100000.00,Davinson Sanchez
+70,TOTTENHAM HOTSPUR,49,Hugo Lioris,0,Goalkeeper,France,6200000.00,Hugo Lioris
+71,TOTTENHAM HOTSPUR,0,Alfie Whiteman,0,Goalkeeper,England,200000.00,Alfie Whiteman
+72,TOTTENHAM HOTSPUR,0,Brandon Austin,0,Goalkeeper,England,18000.00,Brandon Austin
+73,NEW CASTLE UTD,0,Callum Wilson,6,Forward,England,2400000.00,Callum Wilson
+74,NEW CASTLE UTD,0,Allan Saint-Maximin,4,Forward,France,2000000.00,Allan Saint-Maximin
+75,NEW CASTLE UTD,0,Dwight Gayle,0,Forward,England,2080000.00,Dwight Gayle
+76,NEW CASTLE UTD,0,Joseph Willhock,0,Midfielder,England,2000000.00,Joseph Willhock
+77,NEW CASTLE UTD,0,Sean Longstaff,1,Midfielder,England,52000.00,Sean Longstaff
+78,NEW CASTLE UTD,0,Jacob Murphy,1,Midfielder,England,1300000.00,Jacob Murphy
+79,NEW CASTLE UTD,0,Ciaran Clark,0,Defender,Ireland,1820000.00,Ciaran Clark
+80,NEW CASTLE UTD,0,Jamaal Lascelles,1,Defender,England,2080000.00,Jamaal Lascelles
+81,NEW CASTLE UTD,0,Javier Manquillo,1,Defender,Spain,1820000.00,Javier Manquillo
+82,NEW CASTLE UTD,22,Martin Dubravka,0,Goalkeeper,Slovakia,1980000.00,Martin Dubravka
+83,NEW CASTLE UTD,24,Freddie Woodman,0,Goalkeeper,England,156000.00,Freddie Woodman
+84,NEW CASTLE UTD,10,Karl Darlow,0,Goalkeeper,England,1300000.00,Karl Darlow
+85,WEST HAM UNITED,0,Said Benrahma,5,Forward,Algeria,1200000.00,Said Benrahma
+86,WEST HAM UNITED,0,Jarrod Bowen,3,Forward,England,5000000.00,Jarrod Bowen
+87,WEST HAM UNITED,0,Michail Antonio,8,Forward,Jamiaca,3640000.00,Michail Antonio
+88,WEST HAM UNITED,0,Declan Rice,1,Midfielder,England,156000.00,Declan Rice
+89,WEST HAM UNITED,0,Tomas Soucek,3,Midfielder,Czech Republic,3500000.00,Tomas Soucek
+90,WEST HAM UNITED,0,Pablo Fornals,4,Midfielder,Spain,3500000.00,Pablo Fornals
+91,WEST HAM UNITED,0,Aaron Creswell,0,Defender,England,2600000.00,Aaron Creswell
+92,WEST HAM UNITED,0,Vladimir Coufal,1,Defender,Czech Republic,1600000.00,Vladimir Coufal
+93,WEST HAM UNITED,0,Craig Dawson,1,Defender,England,2200000.00,Craig Dawson
+94,WEST HAM UNITED,65,Lukasz Fabianski,0,Goalkeeper,Poland,3400000.00,Lukasz Fabianski
+95,WEST HAM UNITED,0,David Martin,0,Goalkeeper,England,55000.00,David Martin
+96,WEST HAM UNITED,0,Darren Randolph,0,Goalkeeper,Ireland,2100000.00,Darren Randolph
+97,EVERTON,0,ANTHONY GORDAN,2,Forward,England,620000.00,ANTHONY GORDAN
+98,EVERTON,0,DEMARAI GRAY,5,Forward,england,2500000.00,DEMARAI GRAY
+99,EVERTON,0,SALOMÓN RONDÓN,1,Forward,Venezula,3740000.00,SALOMÓN RONDÓN
+100,EVERTON,0,Allan,0,Midfielder,Brazil,4360000.00,Allan
+101,EVERTON,0,ABDOULAYE DOUCOURÉ,2,Midfielder,France,1300000.00,ABDOULAYE DOUCOURÉ
+102,EVERTON,0,FABIANDELPH,0,Midfielder,England,5000000.00,FABIANDELPH
+103,EVERTON,0,MICHAEL KEANE,1,Defender,England,3600000.00,MICHAEL KEANE
+104,EVERTON,0,LUCAS DIGNE,0,Defender,France,3000000.00,LUCAS DIGNE
+105,EVERTON,0,BEN GODFREY,0,Defender,England,550000.00,BEN GODFREY
+106,EVERTON,53,JORDAN PICKFORD,0,Goalkeeper,England,3700000.00,JORDAN PICKFORD
+107,EVERTON,0,ASMIR BEGOVIC,0,Goalkeeper,Bosnia,4200000.00,ASMIR BEGOVIC
+108,EVERTON,0,ANDY LONERGAN,0,Goalkeeper,England,250000.00,ANDY LONERGAN
+109,LEICHESTER CITY,0,Ademola Lookman,3,Forward,England,1400000.00,Ademola Lookman
+110,LEICHESTER CITY,0,Kelechi Iheanacho,2,Forward,Nigeria,3100000.00,Kelechi Iheanacho
+111,LEICHESTER CITY,0,Jamie Vardy,9,Forward,England,7200000.00,Jamie Vardy
+112,LEICHESTER CITY,0,James Maddison,5,Mid-Fielder,England,5720000.00,James Maddison
+113,LEICHESTER CITY,0,Youri Tielemans,5,Mid-Fielder,Belgium,1700000.00,Youri Tielemans
+114,LEICHESTER CITY,0,Harvey Barnes,2,Mid-Fielder,England,520000.00,Harvey Barnes
+115,LEICHESTER CITY,0,Çaglar Söyüncü,1,Defender,Turkey,2350000.00,Çaglar Söyüncü
+116,LEICHESTER CITY,0,Jonny Evans,1,Defender,Ireland,4100000.00,Jonny Evans
+117,LEICHESTER CITY,0,Timothy Castagne,0,Defender,Belgium,3300000.00,Timothy Castagne
+118,LEICHESTER CITY,62,Kasper Schmeichel,0,Goalkeeper,Denmark,6760000.00,Kasper Schmeichel
+119,LEICHESTER CITY,0,Danny Ward,0,Goalkeeper,Wales,1040000.00,Danny Ward
+120,LEICHESTER CITY,0,Eldin Jakupovic,0,Goalkeeper,Switzerland,1200000.00,Eldin Jakupovic

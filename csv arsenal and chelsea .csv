@@ -1,0 +1,25 @@
+SL,CLUBS,GOALS_SAVED,PLAYERS,GOALS_SCORED,POSITION,NATIONALITY,SALARY
+1,ARSENAL,0,Gabriel Martinelli,4,Forward,Brazil,560000.00
+2,ARSENAL,0,Aubameyang,4,Forward,Gabon,1550000.00
+3,ARSENAL,0,Alexandre Lacazette,3,Forward,France,1130000.00
+4,ARSENAL,0,Martin Odegaard,4,Midfielder,Norway,500000.00
+5,ARSENAL,0,Albert Sambi Lokonga,0,Midfielder,Belgium,1200000.00
+6,ARSENAL,0,Bukayo Saka,6,Midfielder,England,1800000.00
+7,ARSENAL,0,Benjamin White,0,Defender,England,7400000.00
+8,ARSENAL,0,Takehiro Tomiyasu,0,Defender,Japan,1500000.00
+9,ARSENAL,0,Nuno Tavares,0,Defender,Portugal,1600000.00
+10,ARSENAL,55,Aaron Ramsdale,0,GoalKeeper,England,2400000.00
+11,ARSENAL,9,Bernd Leno,0,GoalKeeper,Germany,6200000.00
+12,ARSENAL,0,Arthur Okonkwo,0,Goalkeeper,England,155800.00
+13,CHELSEA,0,Romelu Lukaku,5,Forward,Belgium,12000000.00
+14,CHELSEA,0,Callum Hudson-Odoi,1,Forward,England,6200000.00
+15,CHELSEA,0,Timo Werner,1,Forward,Germany,20000000.00
+16,CHELSEA,0,Jorginho,6,Midfielder,Italy,7000000.00
+17,CHELSEA,0,N'Golo Kante,2,Midfielder,France,18000000.00
+18,CHELSEA,0,Mateo Kovacic,2,Midfielder,Croatian,7000000.00
+19,CHELSEA,0,Antonio Rudiger,2,Defender,Germany,6200000.00
+20,CHELSEA,0,Thiago Silva,2,Defender,Brazil,12000000.00
+21,CHELSEA,0,Marcos Alonso,1,Defender,Spain,7000000.00
+22,CHELSEA,55,Edouard Mendy,0,GoalKeeper,Senegal,3200000.00
+23,CHELSEA,2,Kepa Arrizabalaga,0,GoalKeeper,Spain,9600000.00
+24,CHELSEA,0,Marcus Bettinelli,0,GoalKeeper,England,2160000.00
