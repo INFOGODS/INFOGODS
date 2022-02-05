@@ -1,0 +1,3 @@
+- 👋 Hi, this account was made by three friends who decided to post their high school final year computer school project....
+
+
